@@ -1,0 +1,17 @@
+{
+  "emitLegacyScripts": false,
+  "name": "Jack Rabbit",
+  "tree": {
+    "$className": "DataModel",
+    
+    "ReplicatedStorage": {
+      "$path": "src/ReplicatedStorage",
+      "$ignoreUnknownInstances": true
+    },
+    
+    "ServerStorage": {
+      "$path": "src/ServerStorage",
+      "$ignoreUnknownInstances": true
+    }
+  }
+}
